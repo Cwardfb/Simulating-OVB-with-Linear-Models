@@ -1,5 +1,5 @@
 # Simulating-OVB-with-Linear-Models
-In this code I simulate a simple regression model to test the performance of a linear model when omitting an important variable. 
+In this code I simulate a data set to test the performance of a linear model when omitting an important variable. 
 
 Empirical Monte Carlo
 How Does the Density of Beta 1 and Beta 2 Change?
